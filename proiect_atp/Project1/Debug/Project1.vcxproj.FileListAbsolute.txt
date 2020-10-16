@@ -1,0 +1,4 @@
+C:\Users\manol\Desktop\Project1\Debug\Project1.exe
+C:\Users\manol\Desktop\Project1\Debug\Project1.pdb
+C:\Users\manol\an 1 cibernetica\cursuri an 1 sem 2 cibe\algoritmi si tehnici de programare sem 2\proiect_atp\Project1\Debug\Project1.exe
+C:\Users\manol\an 1 cibernetica\cursuri an 1 sem 2 cibe\algoritmi si tehnici de programare sem 2\proiect_atp\Project1\Debug\Project1.pdb

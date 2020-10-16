@@ -1,0 +1,5 @@
+﻿  Gr1005_MANOLACHEMIHAIANDREI.cpp
+C:\Users\manol\Desktop\Gr1005_MANOLACHEMIHAIANDREI\Gr1005_MANOLACHEMIHAIANDREI.cpp(388,7): warning C4101: 'boli_preexistente': unreferenced local variable
+C:\Users\manol\Desktop\Gr1005_MANOLACHEMIHAIANDREI\Gr1005_MANOLACHEMIHAIANDREI.cpp(488,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\manol\Desktop\Gr1005_MANOLACHEMIHAIANDREI\Gr1005_MANOLACHEMIHAIANDREI.cpp(43): warning C4715: 'adevar': not all control paths return a value
+  Gr1005_MANOLACHEMIHAIANDREI.vcxproj -> C:\Users\manol\Desktop\Gr1005_MANOLACHEMIHAIANDREI\Debug\Gr1005_MANOLACHEMIHAIANDREI.exe
